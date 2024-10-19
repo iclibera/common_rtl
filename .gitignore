@@ -1,0 +1,7 @@
+*.opt
+*.vstf
+*.wlf
+*.ini
+xilinx_vip*/
+work*/
+sim/sim_output/
